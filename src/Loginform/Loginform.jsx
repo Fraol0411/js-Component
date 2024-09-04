@@ -82,7 +82,7 @@ export default function Loginform() {
 
                 </div>
             </div>
-       </div>
+       
 
        <div className={styles.panelscontainer}>
             <div className={`${styles.panel} ${styles.leftpanel}`}>
@@ -114,6 +114,7 @@ export default function Loginform() {
             </div>
 
        </div>
+    </div>
  </body>
     
 
